@@ -11,7 +11,7 @@
 
 📧 Email - wakarmalik9@gmail.com
 
-💼 Portfolio - [wakar-malik.github.io](https://wakar-malik.github.io/)
+💼 Portfolio - [wakar-malik.github.io](https://wakar-m.netlify.app/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wakar-malik) 
